@@ -2,7 +2,7 @@ import { motion as Motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import ClientsSection from "../components/ClientsSection";
 import AiEnginesSection from "../components/AiEngines";
-import Footer from "../components/layout/footer";
+import Footer from "../components/layout/Footer";
 import CTA from "../components/CTA";
 import Hero from "../components/Hero";
 import IndividualSection from "../components/IndividualSection";
